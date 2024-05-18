@@ -1,6 +1,6 @@
 # Ecommerce powerbi_project
 
-A US Based Ecommerce Sales Company wants to create a Sales Dashboard showing information of YTD Sales and generate insights for given scenarios  
+A US Based Ecommerce Sales Company wants to create a Sales Dashboard showing information of YTD Sales and generate insights for given scenarios.  
 
 Problem Statement
 
