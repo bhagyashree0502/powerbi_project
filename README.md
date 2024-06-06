@@ -1,4 +1,4 @@
-# Ecommerce powerbi_project
+# Ecommerce Insight : Power BI Sales Dashboard
 
 A US Based Ecommerce Sales Company wants to create a Sales Dashboard showing information of YTD Sales and generate insights for given scenarios.  
 
